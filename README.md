@@ -1,2 +1,2 @@
 # Faculty-Scheduling-System
-Thesis Research
+Thesis Proposal
